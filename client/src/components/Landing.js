@@ -7,7 +7,7 @@ const Landing = () => {
       <div className="box text-center">
         <h1 className="title display-1">OnSurvey</h1>
         <p className="subtitle">
-          Best solution for business owners to recieve feedback from customers
+          Best solution for business owners to receive feedback from customers
           via surveys
         </p>
         <a
