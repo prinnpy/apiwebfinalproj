@@ -1,0 +1,17 @@
+.review-text {
+    color: gray;
+    padding-bottom: 20px;
+}
+
+.confirm-text {
+    font-size: 3vw;
+    font-weight: bold;
+}
+
+.back-btn {
+    margin-right: 71.3%;
+}
+
+.submit-btn {
+    margin-top: 15px;
+}

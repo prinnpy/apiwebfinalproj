@@ -1,0 +1,35 @@
+.box {
+    padding-top: 100px;
+    height: 500px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.title {
+    font-size:9vw;
+    font-weight: bold;
+}
+
+.title-white {
+    font-size:9vw;
+    font-weight: bold;
+    color: white;
+}
+
+.subtitle {
+    margin-top: 10px;
+    font-size: 25px;
+    color: gray;
+}
+
+.subtitle-white {
+    margin-top: 10px;
+    font-size: 25px;
+    color: white;
+}
+
+
+
+.btn-google {
+    margin-top: 20px;
+}
